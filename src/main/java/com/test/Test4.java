@@ -15,6 +15,7 @@ public class Test4 {
             Employee emp = new Employee();
             System.out.println(emp);
             obj1.getApiInfo1(emp);
+            
             obj1.getApiInfo2(emp);
             obj1.getApiInfo3(emp);
             System.out.println("end");
