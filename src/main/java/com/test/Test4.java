@@ -29,7 +29,6 @@ public class Test4 {
         System.out.println("inside getApiInfo1:" + new Date());
         emp.setEmpId(1);
         try {
-            
             TimeUnit.SECONDS.sleep(5);
             System.out.println("inside getApiInfo1 after sleep:" + new Date());
         } catch (Exception e) {
