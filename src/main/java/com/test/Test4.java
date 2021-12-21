@@ -22,7 +22,6 @@ public class Test4 {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        
     }
 
     public void getApiInfo1(Employee emp) {
