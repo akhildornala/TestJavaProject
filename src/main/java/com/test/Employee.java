@@ -14,7 +14,6 @@ public class Employee {
     public void setEmpId(int empId) {
         this.empId = empId;
     }
-
     
     public String getName() {
         return name;
