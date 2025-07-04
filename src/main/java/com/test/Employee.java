@@ -7,7 +7,7 @@ public class Employee {
     private String dept;
     private Double salary;
 
-    
+
     public int getEmpId() {
         return empId;
     }
