@@ -8,7 +8,7 @@ public class Employee {
     private Double salary;
 
 
-    
+
     public int getEmpId() {
         return empId;
     }
