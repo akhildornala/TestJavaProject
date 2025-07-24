@@ -12,7 +12,6 @@ public class Employee {
         return empId;
     }
 
-    
     public void setEmpId(int empId) {
         this.empId = empId;
     }
