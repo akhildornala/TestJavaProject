@@ -22,6 +22,7 @@ public class Test3 {
             ls.forEach(CompletableFuture::join);
             System.out.println("end");
             System.out.println(emp);
+            
         } catch (Exception e) {
             e.printStackTrace();
         }
